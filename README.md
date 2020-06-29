@@ -1,2 +1,2 @@
-# Jo-o-Pedro
+# JoãoPedro
 Comunicação Dados
